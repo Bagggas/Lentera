@@ -1,3 +1,4 @@
 * linguist-vendored
 *.Hack linguist-vendored=false
 *.Html linguist-vendored=true
+*.Css linguist-vendored=true
