@@ -1,0 +1,31 @@
+.tou-bg{
+  padding: 20vh 2vh 20vh 10vh;
+  height: 50vh;
+  background-color: rgb(5, 41, 58);
+}
+
+.address-title{
+  color: #f4f4f4;
+  margin-top: 25vh;
+  font-size: 56px;
+}
+
+a.adrs-link{
+  color: #69a5f5;
+  font-size: 19px;
+  font-weight: bolder;
+}
+
+.t-address{
+  color: #f4f4f4;
+}
+
+.icon-adrs{
+  padding-right: 10vh;
+  width: 100vh;
+}
+
+hr.navbar-divider{
+  margin-top: 0px !important;
+  margin-bottom: 0px !important; 
+}
