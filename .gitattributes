@@ -1,3 +1,0 @@
-* linguist-vendored
-*.hack linguist-vendored=false
-*.css linguist-detectable=true
